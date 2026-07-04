@@ -1,4 +1,3 @@
-
 # Cadastro e Lista de Recados
 
 ## Integrantes
@@ -26,7 +25,7 @@
 cd backend
 composer install
 cp .env.example .env
-# Edite o arquivo .env com suas credenciais do MySQL
+# Edite com suas credenciais MySQL
 php artisan key:generate
 php artisan migrate
 php artisan serve
