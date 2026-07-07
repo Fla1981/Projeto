@@ -15,7 +15,7 @@
 ## Pré-requisitos
 
 - Node.js v20+
-- PHP 8.2+
+- PHP 8.5
 - Composer 2
 - MySQL 8 rodando
 
